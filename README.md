@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seun 
-- 👀 I’m interested in Software Engineering and AI
-- 🌱 I’m currently learning DS & ALgorithms
+- 👀 I’m interested in AI, machine learning and cloud computing
+- 🌱 I’m currently learning problem solving using LeetCode, studying for AWS Solutions Architect Certifications and looking for a ML/AI/DL project to hop on
 - 💞️ I’m looking to collaborate on ML/AI projects
 - 📫 How to reach me adexseun13@gmail.com
 
